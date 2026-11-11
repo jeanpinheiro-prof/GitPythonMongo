@@ -1,0 +1,10 @@
+{
+	"nome": "Vanilson Junior",
+	"cidade": "Carbonita",
+	"uf": "MG",
+	"idade": 17,
+	"altura": 1.73,
+	"snct": ["GitPythonMongo", "Campeonato de CS", "Curso Word", "Teoria do caos", "Fechamento SNCT"],
+	"aluno": true,
+	"ano": 2
+}
