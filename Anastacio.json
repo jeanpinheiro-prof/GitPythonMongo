@@ -1,0 +1,10 @@
+{
+	"nome": "Anastácio Celestino dos Santos",
+	"cidade": "Novo Cruzeiro",
+	"uf": "MG",
+	"idade": 16,
+	"altura": 1.81, 
+	"snct": ["Python:Git:MongoDB", "Introdução ao Blender", "Encerramento"],
+	"aluno": true,
+	"ano": 1
+}
