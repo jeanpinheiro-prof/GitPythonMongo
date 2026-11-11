@@ -1,0 +1,10 @@
+{
+ "nome": "Dickerson Augusto Nunes da Costa",
+ "cidade": "São João Evangelista",
+ "uf": "MG",
+ "idade": 18,
+ "altura": 1.73,
+ "snct":["Palestra mulheres negras na ciência", "GitPythonMongoDB", "Abertura"],
+ "aluno": true,
+ "ano": 2
+}
