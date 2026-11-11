@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qualquer coisa :)
+=======
+Galo maior do mundo!!!
+>>>>>>> 4049ab148f6cb6953c26dcab4988df93c07d813f
