@@ -1,0 +1,9 @@
+{
+  "nome": "Pedro Junior Soares Barroso",
+  "cidade": "Rio Vermelho",
+  "uf": "MG",
+  "idade":34,
+  "altura":1.73,
+  "snct": ["gitpyton", "geogebra", "abertura" ],
+  "aluno":true,
+  "ano":1
