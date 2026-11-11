@@ -1,0 +1,10 @@
+{
+  "nome": "Pietro Augusto",
+  "cidade": "Cantagalo",
+  "idade":16,
+  "snct": ["GitPyrhonMongo", "Java", "JavaScript",
+  "CSS"],
+  "aluno":true
+  "ano":0,
+  "formaçao":{"concluindo o médio"}
+}
