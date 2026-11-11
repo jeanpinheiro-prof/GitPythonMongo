@@ -1,0 +1,10 @@
+{
+	"nome": "ruan magno soares gonçalves",
+	"cidade": "são joão evangelista",
+	"idade": "16",
+	"altura" : 1.80,
+	"uf" : "mg",
+	"snct" : ["introdução ao blender", "encerramento", "gitpythonmongo"],
+	"aluno": true,
+	"ano": 1
+}
