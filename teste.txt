@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 According to all known laws of aviation, there is no way a bee should be able to fly.
 Its wings are too small to get its fat little body off the ground.
 The bee, of course, flies anyway because bees don't care what humans think is impossible.
@@ -1363,3 +1364,10 @@ I'm not making a major life decision during a production number!
 All right. Take ten, everybody. Wrap it up, guys.
 I had virtually no rehearsal for that.
 O fim
+=======
+<<<<<<< HEAD
+qualquer coisa :)
+=======
+Galo maior do mundo!!!
+>>>>>>> 4049ab148f6cb6953c26dcab4988df93c07d813f
+>>>>>>> 46511544cd6c6e15142edbf66c113e1b45ebf4b2

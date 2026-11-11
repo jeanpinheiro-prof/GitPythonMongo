@@ -1,0 +1,10 @@
+{
+  "nome": "Pietra",
+  "cidade": "Virginopolis",
+  "uf": MG,
+  "idade" : 15,
+  "altura": 1.61,
+  "snct" :["pyton mongo git", "aulão de biologia pré-enem", "abertura"],
+  "aluno" : "true",
+  "ano" : 1
+}
